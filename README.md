@@ -7,9 +7,9 @@ This project performs **Exploratory Data Analysis (EDA)** on the **Titanic datas
 ---
 
 ## Folder Structure
-├── titanic.csv # Dataset file
-├── EDA_Titanic.ipynb # Jupyter Notebook with full analysis
-└── README.md 
+├── titanic.csv # Dataset file  
+├── EDA_Titanic.ipynb # Jupyter Notebook with full analysis  
+└── README.md  
 
 
 ---
